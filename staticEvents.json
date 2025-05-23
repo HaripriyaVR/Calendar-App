@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2025-05-23",
+    "startTime": "00:00",
+    "endTime": "01:30",
+    "color": "#f6be23",
+    "title": "Daily Standup"
+  },
+  {
+    "date": "2025-05-23",
+    "startTime": "04:30",
+    "endTime": "07:30",
+    "color": "#f6501e",
+    "title": "Weekly catchup"
+  }
+]
